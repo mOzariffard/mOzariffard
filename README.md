@@ -69,10 +69,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mOzariffard/mOzariffard/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://profile-counter.glitch.me/mOzariffard/count.svg?"  />
 </div>
