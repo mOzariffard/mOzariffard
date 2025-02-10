@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Zarif</h1>
 <h3 align="center">I'm student at Cyprus International University (CIU)</h3>
 
-- 🌱 I’m currently learning **React ,JavaScript ,HTML&CSS**
+- 🌱 I’m currently learning **React ,JavaScript ,Node.js**
 
 - 📫 How to reach me **m.zariffard1381@gmail.com**
 
