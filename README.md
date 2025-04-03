@@ -2,7 +2,7 @@
 <h3 align="center">I'm student at Cyprus International University (CIU)</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning React ,JavaScript ,Node.js<br>  📫 How to reach me m.zariffard1381@gmail.com
+🌱 I’m currently learning React.js ,Next.js ,Node.js<br>  📫 How to reach me m.zariffard1381@gmail.com
 
 
 ## 🌐 Socials:
