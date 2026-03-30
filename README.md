@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://mozariffard.github.io/Portfolio](http://mozariffard.github.io/Portfolio)
 
-- 💬 Ask me about **React,GSAP , ASP.NET**
+- 💬 Ask me about **React, GSAP , ASP.NET**
 
 - 📫 How to reach me **m.zariffard1381@gmail.com**
 
